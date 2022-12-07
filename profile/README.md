@@ -1,6 +1,6 @@
 ![ISIQuiz Logo](https://github.com/ISIQuiz/ISIQuiz-Report/raw/gh-pages/Extra/ISIQuizLogoLineTransparent.png "ISIQuiz Logo")
 
-## Benvenute/i nella ISIQuiz Organization!
+## Benvenutə nella ISIQuiz Organization!
 
 Il software è disponibile [nel repository](https://github.com/ISIQuiz/PPS-22-isiquiz)
 
